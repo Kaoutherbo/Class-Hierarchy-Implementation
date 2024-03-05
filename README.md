@@ -29,9 +29,9 @@ Specific instructions for creating and utilizing various class types are provide
   git clone "https://github.com/Kaoutherbo/Class-Hierarchy-Implementation"
   ```
 - Navigate to the `src` folder
-```
-cd src
-```
+ ```
+ cd src 
+ ```
 - Compile the Java files using a Java compiler.
   ```
   javac *.java
